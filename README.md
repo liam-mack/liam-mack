@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 
-![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7289da)()
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS&logoColor=white&color=7289da)
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
