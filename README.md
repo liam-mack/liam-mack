@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
 
 </br>
-Hello
+You can find me on LinkedIn: [![LinkedIn][3.2]][3].
 
 
 <!--
