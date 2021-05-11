@@ -21,7 +21,7 @@
 
 </br>
 Connect on LinkedIn
-<a href="https://www.linkedin.com/in/liam-mackinnon"><img height="30" src="https://github.com/liam-mack/liam-mack/blob/main/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/liam-mackinnon"><img height="30" margin="0px 0px 0px 5px" src="https://github.com/liam-mack/liam-mack/blob/main/linkedin.png?raw=true"></a>
 
 
 
