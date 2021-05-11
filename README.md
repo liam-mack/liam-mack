@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=liam-mack&theme=yeblu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" />
 
 [![Liam's Github stats](https://github-readme-stats.vercel.app/api?username=liam-mack&count_private=true&show_icons=true&theme=yeblu)](https://github.com/liam-mack)
 
