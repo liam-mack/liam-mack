@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Liam's Github stats](https://github-readme-stats.vercel.app/api?username=liam-mack&count_private=true&show_icons=true&theme=graywhite)](https://github.com/liam-mack)
-[![Liam's Github Stats](https://github-readme-stats.vercel.app/api?username=liam-mack&show_icons=true&theme=darko)
+[![Liam's Github Stats](https://github-readme-stats.vercel.app/api?username=liam-mack&show_icons=true&theme=dark)
 <!--
 **liam-mack/liam-mack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
