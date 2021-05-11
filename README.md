@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
-<div width="100%" justify-content="space-between">
-<img align="top" src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
-</div>
+
+<img align="top" src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
+
 </br>
 Hello
 
