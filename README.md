@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=7289da)
-![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=ReduxL&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=Redux&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-Postgres-informational?style=flat&logo=PostgreSQL&logoColor=white&color=7289da)
 
 
