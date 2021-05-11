@@ -5,8 +5,10 @@
 ![](https://img.shields.io/badge/-SCSS-informational?style=flat&logo=Sass&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=white&color=7289da)
-![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=Vue&logoColor=white&color=7289da)
-
+![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=Vue.js&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQL&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQL&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQL&logoColor=white&color=7289da)
 
 
 <img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
