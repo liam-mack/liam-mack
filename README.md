@@ -1,4 +1,7 @@
 <!--### Hi there 👋-->
+[2]: https://www.linkedin.com/in/heinz-martin/
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 
 ![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=7289da)
