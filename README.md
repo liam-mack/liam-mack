@@ -21,7 +21,7 @@
 
 </br>
 <p align="center">
-Connect on LinkedIn -&nbsp;
+Connect on LinkedIn &nbsp;
 <a href="https://www.linkedin.com/in/liam-mackinnon"><img height="25" src="https://github.com/liam-mack/liam-mack/blob/main/linkedin.png?raw=true"></a>
 </p>
 
