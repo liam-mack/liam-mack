@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
 
 </br>
-Connect on LinkedIn <a href="https://www.linkedin.com/in/liam-mackinnon"><img height="30" src="https://github.com/liam-mack/liam-mack/blob/main/linkedin.png?raw=true"></a>
+Connect on LinkedIn               <a href="https://www.linkedin.com/in/liam-mackinnon"><img height="30" src="https://github.com/liam-mack/liam-mack/blob/main/linkedin.png?raw=true"></a>
 
 
 
