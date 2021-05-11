@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" /><img height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
 
 </br>
 Hello
