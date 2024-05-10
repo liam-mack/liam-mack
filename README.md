@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=7289da)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu" count_private=true/><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
+<img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu"/><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
 </p>
 
 
