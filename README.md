@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=Redux&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=7289da)
 ![](https://img.shields.io/badge/-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=7289da)
+![](https://img.shields.io/badge/-GQL-informational?style=flat&logo=jQuery&logoColor=white&color=7289da)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/?username=liam-mack&theme=yeblu"/><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-mack&hide=handlebars&theme=yeblu" />
